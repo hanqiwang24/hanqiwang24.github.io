@@ -13,6 +13,14 @@ title: "主页"
 - GitHub： [github.com/hanqiwang24](https://github.com/hanqiwang24)  
 - LinkedIn： [linkedin.com/in/你的ID](https://linkedin.com/in/你的ID)  
 
+---
+
+### 导航菜单
+
+- [主页](/)
+- [教育背景](/education/)
+- [博客](#)  <!-- 如果你有博客页面，改成对应地址 -->
+
 </td>
 <td style="padding-left: 20px; vertical-align: top;">
 
