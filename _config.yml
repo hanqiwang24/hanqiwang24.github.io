@@ -1,0 +1,9 @@
+title: "Hanqi Wang"
+author:
+  name: "Hanqi Wang"
+  email: "h.wang99@lse.ac.uk"
+  github: "hanqiwang24"
+description: "PhD student | Researcher | Data Scientist"
+baseurl: ""
+url: "https://hanqiwang24.github.io"
+theme: jekyll-theme-minimal
